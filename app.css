@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat+Brush&family=Source+Sans+Pro:wght@300;400;600;700&display=swap');
+
+
+
+
+
+button {
+
+    background-color: #fad744;
+
+    position: relative;
+    cursor: pointer;
+    border-radius: 8px;
+    border: 1px solid black;
+    height: 40px;
+    width: 80px;
+    margin-left: 280px;
+
+}
+
+body {
+    background-color: #54c3ef;
+    margin: auto;
+    padding: auto;
+    width: auto;
+    position: relative;
+   
+}
+
+#container {
+    position: relative;
+    width: 650px;
+   
+    margin-left: 27%;
+    margin-bottom: 2%;
+
+    justify-content: center;
+
+}
+
+div {
+
+    background-color: #2b3252;
+    padding: 15px;
+
+    justify-content: center;
+
+    border-radius: 8px;
+
+}
+
+h3 {
+    color: #fad744;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+h1 {
+    margin: 24px auto 12px;
+    color: #e9e91b;
+    font-weight: 800;
+    font-size: 60px;
+    text-shadow: 0px 0px 5px black;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Caveat Brush', cursive;
+
+}
+
+.lab {
+    color: #fad744;
+    padding: 9px;
+    cursor: pointer;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#score {
+    width: 120px;
+    height: 200px;
+    background-color: white;
+    position: -webkit-sticky; 
+    position: sticky;
+    top: 0;
+    vertical-align: top;
+
+    float: right;
+    margin-right: 18%;
+}
